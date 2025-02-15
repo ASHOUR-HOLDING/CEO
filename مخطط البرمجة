@@ -1,0 +1,21 @@
+id: mindmap-1 
+name: CEO_Project_MindMap
+type: mermaid 
+content: |-
+  mindmap
+  node {\\‘CEO_Project’}
+     مشروع CEO (ASHOUR-HOLDING)
+       نظرة عامة
+         مستودع احتياطي
+         No Editors/Packaging
+         Limited Workflow
+       السمات
+         أولا
+         A goal not founded
+         لا presicion م sur les la demande ل les donnes
+       TI-ملكة
+         أولا
+         Nos leçons sur la technologie
+       الرخصة
+         أولا
+         Dat : لا ملف خراج
